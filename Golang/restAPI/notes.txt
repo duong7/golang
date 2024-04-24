@@ -1,0 +1,2 @@
+go mod init example/GOLANG  
+go get github.com/gin-gonic/gin //(một framework web phổ biến trong Go.)
